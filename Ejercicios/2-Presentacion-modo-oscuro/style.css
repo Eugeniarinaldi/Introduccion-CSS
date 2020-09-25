@@ -1,0 +1,18 @@
+body{background-color: black;}
+H1{
+    color: lightsalmon; font-size: 120px; font-weight: 800; font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+span{color: lightsalmon; font-size:  48px; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 700;
+}
+.celeste{
+    color: lightseagreen;
+}
+.rosita{
+    color: lightpink
+}
+.lila{
+    color: lightsteelblue
+
+}
+p{color: whitesmoke; font-size: 48px; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 700;}

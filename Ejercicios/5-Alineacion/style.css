@@ -1,0 +1,17 @@
+.primero{text-align: left;}
+.segundo{text-align: center;}
+.tercero{text-align: right;}
+.cuarto{text-align: left;}
+.quinto{text-align: center;}
+.sexto{text-align: left;}
+.septimo{text-align: center;}
+.octavo{text-align: center;}
+.noveno{text-align: left;}
+.de{text-align: left;}
+.unde{text-align: right;}
+.doc{text-align: right;}
+
+@font-face{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

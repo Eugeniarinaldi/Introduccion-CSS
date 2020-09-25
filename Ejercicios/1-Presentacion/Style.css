@@ -1,0 +1,15 @@
+h1{
+    font-size: 120px;
+}
+h1{font-family: "Verdana";}
+h1{font-weight: 800;}
+
+span{font-size: 48px}
+span{font-family: Verdana;}
+span{font-weight: 600;}
+
+p{font-size: 48px; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 600;}
+
+.verde{color: mediumseagreen;}
+.rosa{color: palevioletred}
+.violet{color: purple}

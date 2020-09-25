@@ -1,0 +1,10 @@
+body{font-family: sans-serif;}
+h2{font-size: 50px;}
+
+.violeta{color: purple; font-size: 30px;}
+span{background-color: lightgrey; font-size: 30px;}
+.rosa{color: rgb(192, 72, 92); font-size: 30px;}
+.acqua{color: salmon; font-size: 30px;}
+.liight{color: turquoise; font-size: 30px;}
+.azul{color: yellowgreen; font-size: 30px;}
+a:link{text-decoration: none;}

@@ -1,0 +1,19 @@
+body{font-family: sans-serif;}
+h1{font-size: 75px;}
+h2{font-size: 35px;}
+ul{width: 30%;}
+.quiensabe1{background-color: #4169e1;}
+.quiensabe2{background-color: #ff0000;}
+.quiensabe3{background-color: #f08080;}
+.quiensabe4{background-color:#90ee90}
+.quiensabe5{background-color: #87cefa}
+.flor1{background-color: RGB(255, 192, 203)}
+.flor2{background-color: RGB(255, 105, 180)}
+.flor3{background-color: RGB(199, 21, 133)}
+.flor4{background-color: RGB(255, 127, 80)}
+.flor5{background-color: RGB(255, 69, 0)}
+.hoja1{background-color: hsl(280, 61%, 50%)}
+.hoja2{background-color: hsl(0, 68%, 42%)}
+.hoja3{background-color: hsl(60, 100%, 25%)}
+.hoja4{background-color: hsl(33, 100%, 50%)}
+.hoja5{background-color: hsl(348, 83%, 47%);} 
